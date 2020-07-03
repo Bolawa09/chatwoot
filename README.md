@@ -13,6 +13,8 @@
 
 ___
 
+[![Run on Repl.it](https://repl.it/badge/github/chatwoot/chatwoot)](https://repl.it/github/chatwoot/chatwoot)
+
 <p align="center">
   <a href="https://codeclimate.com/github/chatwoot/chatwoot/maintainability"><img src="https://api.codeclimate.com/v1/badges/80f9e1a7c72d186289ad/maintainability" alt="Maintainability"></a>
   <img src="https://img.shields.io/circleci/build/github/chatwoot/chatwoot" alt="CircleCI Badge">
